@@ -1,1 +1,1 @@
-# Insider-Threat-Detection-Of-Ransomeware-Attacks-using-auto-ML
+# Inside_Threat_Detection_Of_Ransomware_Uisng_AutoML
